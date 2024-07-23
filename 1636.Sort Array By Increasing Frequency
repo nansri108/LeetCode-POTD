@@ -20,3 +20,4 @@ class Solution {
         return Arrays.stream(numsArray).mapToInt(Integer::intValue).toArray();
     }
 }
+
